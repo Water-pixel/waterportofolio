@@ -1,36 +1,36 @@
 # 🌊 Water Portfolio
 
-Bine ai venit în portofoliul meu digital! Acest proiect reprezintă o prezentare online a muncii mele, pasiunilor și abilităților în dezvoltare web, design și alte domenii creative.
+Welcome to my digital portfolio! This project showcases my work, skills, and passions in web development, design, and creative technologies.
 
-🔗 [Vizitează portofoliul live](https://water-pixel.github.io/waterportofolio/)
-
----
-
-## 📌 Descriere
-
-**Water Portfolio** este o aplicație web statică construită cu HTML, CSS și JavaScript, destinată să servească drept CV vizual și punct de contact profesional. Include secțiuni precum:
-
-- **Home** – introducere și mesaj de întâmpinare
-- **Despre** – informații personale și profesionale
-- **Proiecte** – exemple de lucrări realizate
-- **Contact** – formular de contact și linkuri către rețelele sociale
+🔗 [View Live Site](https://water-pixel.github.io/waterportofolio/)
 
 ---
 
-## 🛠️ Tehnologii folosite
+## 📌 Overview
+
+**Water Portfolio** is a static web application built using HTML, CSS, and JavaScript. It serves as a visual CV and a professional contact point. It includes the following sections:
+
+- **Home** – Welcome message and introduction
+- **About** – Personal and professional background
+- **Projects** – Highlights of my work
+- **Contact** – Contact form and social links
+
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (inclusiv Flexbox și Grid pentru layout responsive)
-- JavaScript (pentru interactivitate)
-- GitHub Pages (pentru deploy)
+- CSS3 (with Flexbox & Grid for responsive layout)
+- JavaScript (for interactivity)
+- GitHub Pages (for deployment)
 
 ---
 
-## 🚀 Cum rulezi local
+## 🚀 Run Locally
 
-Dacă vrei să rulezi proiectul pe mașina ta locală:
+To run the project locally:
 
-1. Clonează acest repo:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/water-pixel/waterportofolio.git
