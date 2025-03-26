@@ -1,12 +1,36 @@
-# React + Vite
+# 🌊 Water Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bine ai venit în portofoliul meu digital! Acest proiect reprezintă o prezentare online a muncii mele, pasiunilor și abilităților în dezvoltare web, design și alte domenii creative.
 
-Currently, two official plugins are available:
+🔗 [Vizitează portofoliul live](https://water-pixel.github.io/waterportofolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Descriere
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Water Portfolio** este o aplicație web statică construită cu HTML, CSS și JavaScript, destinată să servească drept CV vizual și punct de contact profesional. Include secțiuni precum:
+
+- **Home** – introducere și mesaj de întâmpinare
+- **Despre** – informații personale și profesionale
+- **Proiecte** – exemple de lucrări realizate
+- **Contact** – formular de contact și linkuri către rețelele sociale
+
+---
+
+## 🛠️ Tehnologii folosite
+
+- HTML5
+- CSS3 (inclusiv Flexbox și Grid pentru layout responsive)
+- JavaScript (pentru interactivitate)
+- GitHub Pages (pentru deploy)
+
+---
+
+## 🚀 Cum rulezi local
+
+Dacă vrei să rulezi proiectul pe mașina ta locală:
+
+1. Clonează acest repo:
+
+```bash
+git clone https://github.com/water-pixel/waterportofolio.git
