@@ -1,12 +1,38 @@
-# React + Vite
+# 💼 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website — a clean, responsive, and animated web application built with **React**. This project is designed to showcase my skills, projects, and journey as a developer.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Smooth scroll navigation using `react-scroll`
+- Section-based layout: Home, About, Projects, Contact
+- Reveal-on-scroll animations with IntersectionObserver
+- Responsive design for both desktop and mobile
+- Fixed navigation bar with mobile hamburger menu
+- Styled with modern UI principles and utility classes
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – Frontend framework
+- **Vite** – Fast build tool
+- **Tailwind CSS** – Styling (or custom CSS, if applicable)
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+
+## 📸 Demo
+
+You can check the live version here:  
+🔗 (https://water-pixel.github.io/waterportofolio/)
+
+> Make sure to replace the link above with your actual Netlify URL.
+
+## 📂 Project Structure
+
+```bash
+src/
+├── assets/                # Images and icons
+├── components/            # Reusable components (Navbar, RevealOnScroll, etc.)
+│   └── sections/          # Home, About, Projects, Contact
+├── App.jsx                # Main app component
+├── main.jsx               # React entry point
+└── index.css              # Global styles
